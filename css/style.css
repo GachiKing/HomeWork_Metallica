@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigator {
+    width: auto;
+    height: 960px;
+    background-image: url(https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dwa8442759/images/homepage/home-hero-aftershock.jpg);
+    color: aliceblue;
+    display: flex;
+    font-family: 'Secular One', sans-serif;
+    font-weight: bold;
+    padding: 40px;
+    
+}
+.left {
+   width: 1400px;
+   height: 200px;
+font-size: 35px;
+
+
+    background-color: rgba(255, 0, 0, 0);
+    
+}
+.datatour {
+
+    margin-left: 200px;
+    font-family: 'Secular One', sans-serif;
+    font-weight: bold
+   
+    
+}
+.title {
+    font-size: 60px;
+    margin-top: 30px;
+}
+.text1 {
+    font-size: 30px;
+    margin: 20px 0;
+}
+.text2 {
+    font-size: 30px;
+    margin: 20px 0;
+
+}
+.text3 {
+    font-size: 30px;
+    margin: 20px 0;
+
+}
+.text4 {
+    font-size: 30px;
+    margin: 20px 0;
+
+}
+.text5 {
+    font-size: 30px;
+    margin: 20px 0 120px;
+
+}
+.tex {
+    font-family: 'Secular One', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 50px;
+}
+a {
+    text-decoration: none; 
+    color: aliceblue;
+   }
+
+
+   
